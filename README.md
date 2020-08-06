@@ -69,7 +69,7 @@ Some of my favorite open source projects: <br>
 
 ### 💻 Projects
 - <a href = "https://github.com/nurdism/neko">n.eko</a> A self hosted virtual browser (rabb.it clone) that runs in docker.
-- <a href = "https://github.com/nurdism/battleye">n.eko</a> Battleye rcon client built in nodejs.
+- <a href = "https://github.com/nurdism/battleye">battleye</a> Battleye rcon client built in nodejs.
 
 ### 💡 Goals for 2020
 - Release 10+ FOSS projects 
